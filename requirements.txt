@@ -29,7 +29,6 @@ packaging==24.0
 pillow==10.3.0
 protobuf==4.25.3
 Pygments==2.17.2
-Python==3.7
 requests==2.31.0
 rich==13.7.1
 six==1.16.0
